@@ -21,6 +21,8 @@ https://www.kaggle.com/datasets/meharshanali/student-dropout-prediction-dataset 
 
 # Oversigt over features
 
+<img width="857" height="442" alt="image" src="https://github.com/user-attachments/assets/06a74cab-7efd-4be0-948b-09e21863a277" />
+
 Kolonnenavn	          Beskrivelse	
 Student_ID	          Unikt ID for eleven	
 Age	                  Elevens alder	
