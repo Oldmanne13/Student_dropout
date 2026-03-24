@@ -3,6 +3,7 @@ colab machine learning start
 # Student_dropout
 Datafile Student_dropout_v3.csv
 hentes med code i colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Oldmanne13/Student_dropout/blob/main/Students_dropout_v2.ipynb)
 
 # Den stillede opgave:
 
